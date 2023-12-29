@@ -4,12 +4,12 @@ export default function Hero() {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Projects CMS</h1>
+          <h1>Coding Canvas</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates,
-            earum laudantium? Libero nesciunt dolor quam, itaque molestias
-            labore! Eum, soluta. Earum quas expedita sunt nostrum beatae
-            voluptates eligendi, iste ipsa? Sunt libero architecto repellat
+            Welcome to my portfolio! I'm <strong>Himjyoti Sarma</strong>, a
+            passionate web developer crafting engaging experiences. With
+            expertise in <strong>React, JavaScript, CSS, HTML, and more</strong>
+            , I bring creativity and functionality to every project.
           </p>
         </div>
         <div className="img-container">
